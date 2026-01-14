@@ -1,0 +1,18 @@
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\bin\Debug\net10.0-windows\Random Pin Generator.exe
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\bin\Debug\net10.0-windows\Random Pin Generator.deps.json
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\bin\Debug\net10.0-windows\Random Pin Generator.runtimeconfig.json
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\bin\Debug\net10.0-windows\Random Pin Generator.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\bin\Debug\net10.0-windows\Random Pin Generator.pdb
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random_Pin_Generator.Form1.resources
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.csproj.GenerateResource.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.AssemblyInfoInputs.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.AssemblyInfo.cs
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.csproj.CoreCompileInputs.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.sourcelink.json
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\refint\Random Pin Generator.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.pdb
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random Pin Generator.genruntimeconfig.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\ref\Random Pin Generator.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\Random Pin Generator\obj\Debug\net10.0-windows\Random_Pin_Generator.Properties.Resources.resources
